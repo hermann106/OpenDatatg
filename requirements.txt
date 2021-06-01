@@ -15,7 +15,7 @@ MarkupSafe==1.0
 requests==2.18.4
 six==1.11.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 certifi==2018.4.16
 chardet==3.0.4
 coreapi==2.3.3
@@ -35,5 +35,5 @@ pytz==2018.4
 requests==2.18.4
 six==1.11.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 django-taggit
